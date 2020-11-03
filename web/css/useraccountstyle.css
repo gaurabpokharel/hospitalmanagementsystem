@@ -1,0 +1,30 @@
+body
+{
+   margin:0;
+   padding: 0;
+   font-family: "Times New Roman";
+}   
+table
+{
+    text-align: left;
+    line-height: 1.5em;
+    
+}
+#username
+{
+height: 30px;
+width: 250px;
+}
+#password
+{
+height: 30px;
+width: 250px;
+}
+#btn
+{
+background-color: cadetblue;
+color: white;
+height: 35px;
+width: 100px;
+border-radius: 25px;
+}
